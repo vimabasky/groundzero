@@ -1,2 +1,3 @@
 # groundzero
 New to coding
+A rookie in coding...
